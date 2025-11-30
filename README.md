@@ -1,4 +1,4 @@
-# integrating and analyzing multiple global datasets related to population, life expectancy, and infant mortality.
+<img width="1301" height="732" alt="Image dashboard project" src="https://github.com/user-attachments/assets/9baa73d8-3f2a-4d7d-b3cf-ae1a9e99066d" /># integrating and analyzing multiple global datasets related to population, life expectancy, and infant mortality.
 
 Project Description
 
@@ -9,11 +9,12 @@ The solution enables users to visually explore and compare key global indicators
 
 
 
-
+![Uploading Image dashboard project.png…]()
 
 
 
 🎯 Project Objectives
+
 
 Integrate demographic and public health datasets into a structured data model.
 
