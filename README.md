@@ -5,7 +5,9 @@ Project Description
 This project focuses on integrating and analyzing multiple global datasets related to population, life expectancy, and infant mortality. The main objective is to uncover meaningful demographic and health-related patterns through interactive Power BI dashboards.
 
 The solution enables users to visually explore and compare key global indicators using dynamic charts, maps, and analytical filters, supporting data-driven insights across continents and countries.
-![Uploading image.png…]()
+![Dashboard Preview](<img width="1301" height="732" alt="Image dashboard project" src="https://github.com/user-attachments/assets/a5027c2e-12b4-471b-9aea-6123124e8a41" />)
+
+
 
 
 
